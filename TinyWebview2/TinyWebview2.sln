@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34004.107
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyWebview2", "TinyWebview2.csproj", "{1FBE304F-4436-4F7F-96BE-6F8CD816713E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TinyWebview2", "TinyWebview2.csproj", "{1FBE304F-4436-4F7F-96BE-6F8CD816713E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicWebview", "..\DynamicWebview\DynamicWebview.csproj", "{B9A4671C-2C3C-4DA0-8730-D7B557732C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "..\Demo\Demo.csproj", "{AE15E169-B3AA-4D7E-8767-8D9CF3A56CDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{1FBE304F-4436-4F7F-96BE-6F8CD816713E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FBE304F-4436-4F7F-96BE-6F8CD816713E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FBE304F-4436-4F7F-96BE-6F8CD816713E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A4671C-2C3C-4DA0-8730-D7B557732C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A4671C-2C3C-4DA0-8730-D7B557732C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A4671C-2C3C-4DA0-8730-D7B557732C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A4671C-2C3C-4DA0-8730-D7B557732C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE15E169-B3AA-4D7E-8767-8D9CF3A56CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE15E169-B3AA-4D7E-8767-8D9CF3A56CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE15E169-B3AA-4D7E-8767-8D9CF3A56CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE15E169-B3AA-4D7E-8767-8D9CF3A56CDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
