@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TinyWebview2": {
+      "commandName": "Project",
+      "commandLineArgs": "https://545.qinlili.bid/"
+    }
+  }
+}
